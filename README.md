@@ -10,4 +10,4 @@
 
 Web about technology.
 
-Access to the web [here](http://www.techshareroom.com/techshareroom_web) coming soon.
+Access to the web [here](http://techshareroom.com/techshareroom_web).

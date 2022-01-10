@@ -4,10 +4,10 @@
 <img src="https://github.com/adgellida/resources/raw/master/images/Techshare_room_Logo3_1.gif" width="80"> techshareroom_web
 =============================================
 
-<a href="https://discord.gg/wfm7Jrj">
+<a href="https://discord.gg/hbAHGSYGfs">
 <img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>
 </a>
 
 Web sobre tecnología.
 
-Accede a la web [aquí](http://www.techshareroom.com/techshareroom_web) próximamente.
+Accede a la web [aquí](http://techshareroom.com/techshareroom_web).
